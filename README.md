@@ -1,5 +1,5 @@
 # HINet
-Half Instance Normalization Network for Image Restoration, based on https://github.com/JingyunLiang/SwinIR.
+Half Instance Normalization Network for Image Restoration, based on https://github.com/megvii-model/HINet.
 
 
 ## Dependencies
